@@ -11,4 +11,4 @@ This is a simple Python code by which you can compare sentiments of twitter user
 
 # Demonstration
 
-![alt text](https://github.com/Starkeyofficial/Sentiment-Comparator/blob/master/example_img.jpg?raw=true)
+<img src="/example img.png" alt="My cool logo"/>

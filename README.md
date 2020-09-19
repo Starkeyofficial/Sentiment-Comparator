@@ -1,6 +1,6 @@
 # Sentiment-Comparator
 
-This is a simple Python code by which you can compare sentiments of twitter users toward keywords provided by you, and through that comparison you can decide which is more preferred by world.
+This is a simple Python code which calculates and compare sentiments of twitter users toward keywords provided by user, and through that comparison the program decides which keyword is more preferred by world.
 
 # Requirments
 
